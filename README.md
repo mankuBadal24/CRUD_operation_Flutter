@@ -1,6 +1,7 @@
 # crud_application
 
-A new Flutter project.
+A new Flutter project which shows the complete CRUD operations in flutter
+
 
 ## Getting Started
 
